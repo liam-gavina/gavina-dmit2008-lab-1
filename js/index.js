@@ -1,4 +1,4 @@
-import { llamaTemplate } from "./template-literal"
+import { llamaTemplate } from "template-literal"
 
 let criminalDatabase = []
 
