@@ -1,0 +1,88 @@
+[ {"photo":"/records/m/larry.jpg",
+"name":"Larry",
+"age":19,
+"woolColor":"Cream",
+"gender":"Male",
+"country":"Canada",
+"wantedFor":"War Crimes, Failure to appear in court, Spitting"
+}, {"photo":"/records/m/terry.jpg",
+"name":"Terry",
+"age":4,
+"woolColor":"Gray",
+"gender":"Male",
+"country":"Estonia",
+"wantedFor":"Terrorism Charges"
+}, {"photo":"/records/f/kerry.jpg",
+"name":"Kerry",
+"age":8,
+"woolColor":"Beige",
+"gender":"Female",
+"country":"United States",
+"wantedFor":"Assault"
+}, {"photo":"/records/m/jerry.jpg",
+"name":"Jerry",
+"age":11,
+"woolColor":"Brown",
+"gender":"Male",
+"country":"Russia",
+"wantedFor":"Embezzlement"
+}, {"photo":"/records/f/sherry.jpg",
+"name":"Sherry",
+"age":4,
+"woolColor":"Black",
+"gender":"Female",
+"country":"England",
+"wantedFor":"Tax Fraud"
+}, {"photo":"/records/f/darry.jpg",
+"name":"Darry",
+"age":18,
+"woolColor":"Cream",
+"gender":"Female",
+"country":"Poland",
+"wantedFor":"Theft"
+}, {"photo":"/records/m/garry.jpg",
+"name":"Garry",
+"age":8,
+"woolColor":"Cream",
+"gender":"Male",
+"country":"Turkey",
+"wantedFor":"Kidnapping"
+}, {"photo":"/records/m/merry.jpg",
+"name":"Merry",
+"age":6,
+"woolColor":"Black",
+"gender":"Male",
+"country":"France",
+"wantedFor":"Burglary"
+}, {
+"photo":"/records/m/avery.jpg",
+"name":"Avery",
+"age":20,
+"woolColor":"Cream",
+"gender":"Male",
+"country":"Finland",
+"wantedFor":"Human trafficking"
+},{
+"photo":"/records/f/emery.jpg",
+"name":"Emery",
+"age":20,
+"woolColor":"Gray",
+"gender":"Female",
+"country":"United States",
+"wantedFor":"January 6th Insurrection"
+}, {
+"photo":"/records/f/veri.jpg",
+"name":"Veri",
+"age":15,
+"woolColor":"White",
+"gender":"Female",
+"country":"Greece",
+"wantedFor":"Arson"
+}, {
+"photo":"/records/m/harry.jpg",
+"name":"Harry",
+"age":3,
+"woolColor":"Black",
+"gender":"Male",
+"country":"New Zealand",
+"wantedFor":"Bribery"}]
